@@ -1,13 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ajayi Ridwan</h1>
-<h3 align="center">Aspiring Data Scientist from Nigeria</h3>
+<img align = 'left' alt = 'coding' width='1200' src='http://www.revsol.co.in/images/datasciencebanner.png'>
+
+<h1 align='center' style = 'margin-top:50px'>Hi 👋, I am Ajayi Ridwan</h1><hr>
+
+
+<img align = 'right' alt = 'coding' width='400' src='https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif'>
+🎓 I am studying Information Technology in Federal University of Technology Akure,Nigeria.
 
 - 🔭 I’m currently working on **Heart Disease Detection**
+
 - 🌱 I'm currently learning from Coursera ,Youtube, Wikipedia, Udacity Kaggle and DataCamp.
+
 ⚡️ Fast learner.
 - 👯 I’m looking for collaborating in **Data Analytics and Machine Learning domains**.
 - 💬 Ask me about **Python, Machine Learning, Data Analytics**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1cAlFNFzUpwgzuVso-b1naaddUmrK3LBz](https://drive.google.com/drive/u/0/folders/1cAlFNFzUpwgzuVso-b1naaddUmrK3LBz)
+- 📄 Know about my experiences [click here](https://drive.google.com/drive/u/0/folders/1cAlFNFzUpwgzuVso-b1naaddUmrK3LBz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
