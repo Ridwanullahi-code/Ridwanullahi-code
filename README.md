@@ -8,10 +8,10 @@
 
 - 🔭 I’m currently working on **Heart Disease Detection**
 
-- 🌱 I'm currently learning from Coursera ,Youtube, Wikipedia, Udacity Kaggle and DataCamp.
+- 🌱 I'm currently learning from **Coursera ,Youtube, Wikipedia, Udacity, Kaggle and DataCamp**.
 
 ⚡️ Fast learner.
-- 👯 I’m looking for collaborating in **Data Analytics and Machine Learning domains**.
+- 👯 I’m looking for collaboration in **Data Analytics and Machine Learning domains**.
 - 💬 Ask me about **Python, Machine Learning, Data Analytics**
 
 - 📄 Know about my experiences [click here](https://drive.google.com/drive/u/0/folders/1cAlFNFzUpwgzuVso-b1naaddUmrK3LBz)
