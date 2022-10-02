@@ -1,6 +1,6 @@
 <h1 align='center' style = 'margin-top:50px'>Hi 👋, I am Ajayi Ridwan</h1><hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Enrolled+in+Microverse;Full-stack+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Enrolled+in+Microverse;Full-stack+Software+Developer;Aspirant+Data+Science)](https://git.io/typing-svg)
 
 <img align = 'right' alt = 'coding' width='300' src='https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif'>
 
