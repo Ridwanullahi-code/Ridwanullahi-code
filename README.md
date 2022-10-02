@@ -3,11 +3,12 @@
 
 <img align = 'right' alt = 'coding' width='300' src='https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif'>
 
-- 🔭 I’m currently working on **Heart Disease Detection**
+- Currently enrolled in Microverse full-stack software Development school
+- 🔭 I’m currently working on **Gym website**
 - 🌱 I'm currently learning from **Coursera ,Youtube, Wikipedia, Udacity, Kaggle and DataCamp**.
 - ⚡️ Fast learner.
-- 👯 I’m looking for collaboration in **Data Analytics and Machine Learning domains**.
-- 💬 Ask me about **Python, Machine Learning, Data Analytics**
+- 👯 I’m looking for collaboration in **Data Analytics, Machine Learning domains, Front-end Development, Back-end Development**.
+- 💬 Ask me about **Python, Machine Learning, Data Analytics, Front-end, Back-end, Web Technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
