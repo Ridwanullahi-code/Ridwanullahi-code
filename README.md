@@ -1,5 +1,6 @@
-<img align = 'left' alt = 'coding' width='1200' src='http://www.revsol.co.in/images/datasciencebanner.png'>
 <h1 align='center' style = 'margin-top:50px'>Hi 👋, I am Ajayi Ridwan</h1><hr>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Enrolled+in+Microverse;Full-stack+Software+Developer)](https://git.io/typing-svg)
 
 <img align = 'right' alt = 'coding' width='300' src='https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif'>
 
