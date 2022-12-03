@@ -1,6 +1,6 @@
 <h1 align='center' style = 'margin-top:50px'>Hi 👋, I am Ajayi Ridwan</h1><hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Enrolled+in+Microverse;Full-stack+Software+Developer;Aspirant+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Enrolled+in+Microverse;Full-stack+Software+Developer)](https://git.io/typing-svg)
 
 <img align = 'right' alt = 'coding' width='300' src='https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif'>
 
@@ -9,7 +9,7 @@
 - 🌱 I'm currently learning from **Coursera ,Youtube, Wikipedia, Udacity, Kaggle and DataCamp**.
 - ⚡️ Fast learner.
 - 👯 I’m looking for collaboration in **Data Analytics, Machine Learning domains, Front-end Development, Back-end Development**.
-- 💬 Ask me about **Python, Machine Learning, Data Analytics, Front-end, Back-end, Web Technologies**
+- 💬 Ask me about **Python,machine learning, front-end, back-end, software development**
 - 📫 How to reach me: ridwanullahiajayi01@gmail.com
 <br><br>
 
