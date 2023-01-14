@@ -68,8 +68,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridwanullahi-code&theme=tokyonight&show_icons=true&locale=en" alt="ridwanullahi-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanullahi-code&theme=tokyonight" alt="ridwanullahi-code" /></p>
-
-## Repos
-[![Insurance Premium Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Ridwanullahi-code&theme=github_dark&repo=Insurance-Premium-Prediction&show_owner=true)](https://github.com/Ridwanullahi-code/Insurance-Premium-Prediction)
-
-[![Web Scrapping Projects Using Python](https://github-readme-stats.vercel.app/api/pin/?username=Ridwanullahi-code&theme=github_dark&repo=Python-Web-Scraping-Projects&show_owner=true)](https://github.com/Ridwanullahi-code/Python-Web-Scraping-Projects)
