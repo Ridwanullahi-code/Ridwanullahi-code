@@ -3,13 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Enrolled+in+Microverse;Full-stack+Software+Developer)](https://git.io/typing-svg)
 
 <img align = 'right' alt = 'coding' width='300' src='https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif'>
+<h1 display='inline'>About Me:</h1>
 
-- Currently enrolled in Microverse full-stack software Development school
-- 🔭 I’m currently working on **Gym website**
-- 🌱 I'm currently learning from **Coursera ,Youtube, Wikipedia, Udacity, Kaggle and DataCamp**.
-- ⚡️ Fast learner.
-- 👯 I’m looking for collaboration in **Data Analytics, Machine Learning domains, Front-end Development, Back-end Development**.
-- 💬 Ask me about **Python,machine learning, front-end, back-end, software development**
+- 🔭 I’m currently working on **Rails Blog App**
+- ⚙️ I have a drive to solve algorithmic problems.
+- 🌱 I’m currently enrolled at Microverse School
+- 🌱 I’m working with HTML CSS JavaScript Ruby, Ruby on Rails, PostgreSQL
+- 👯 I’m looking to collaborate on JavaScript, React and Rails projects.
+- 👨🏻 Don't be shy to say Hi
+- 💬 Ask me about **Python, machine learning, front-end, back-end, software development**
 - 📫 How to reach me: ridwanullahiajayi01@gmail.com
 <br><br>
 
